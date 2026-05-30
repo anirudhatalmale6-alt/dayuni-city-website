@@ -113,27 +113,21 @@ document.addEventListener('DOMContentLoaded', () => {
   // ---- Testimonials ----
   const defaultTestimonials = [
     {
-      text: 'Produk dari Dayuni City selalu berkualitas tinggi! Pengiriman cepat dan packaging-nya cantik. Sudah berlangganan dari awal dan tidak pernah kecewa.',
-      author: 'Sari Wulandari',
-      role: 'Pelanggan Setia',
+      text: 'Suka sekali belanja di Dayuni City! Produknya benar-benar elegan dan detailnya sangat feminin, persis seperti yang saya cari. Kemasannya juga rapi dan cantik dengan sentuhan botani yang khas.',
+      author: 'Amanda P.',
+      role: 'Pelanggan',
       stars: 5
     },
     {
-      text: 'Saya sangat suka dengan koleksi fashion di Dayuni City. Kualitas bahan premium dengan harga yang sangat terjangkau. Pasti akan belanja lagi!',
-      author: 'Dewi Anggraini',
-      role: 'Fashion Enthusiast',
+      text: 'Pelayanan dari Kak Yuni Rhosita sangat ramah dan responsif. Pengiriman cepat dan kualitas produknya melampaui ekspektasi saya. Pasti akan jadi langganan tetap di sini!',
+      author: 'Citra K.',
+      role: 'Pelanggan',
       stars: 5
     },
     {
-      text: 'Pelayanan Kak Yuni sangat ramah dan responsive. Setiap pertanyaan dijawab dengan cepat. Rekomendasi produknya selalu tepat sesuai kebutuhan saya.',
-      author: 'Rina Permata',
-      role: 'Pelanggan Baru',
-      stars: 5
-    },
-    {
-      text: 'Sudah order berkali-kali dan tidak pernah mengecewakan. Kualitas produk selalu konsisten dan harganya bersahabat. Highly recommended!',
-      author: 'Maya Putri',
-      role: 'Repeat Customer',
+      text: 'Mencari online shop yang tepercaya dan punya selera style yang elegan itu tidak mudah, sampai akhirnya saya menemukan Dayuni City. Benar-benar puas dengan pembelian pertama saya!',
+      author: 'Dian S.',
+      role: 'Pelanggan',
       stars: 5
     }
   ];
